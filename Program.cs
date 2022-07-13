@@ -1,4 +1,4 @@
-﻿// Author: Gabriel Ellebrink, gabell-2@student.ltu.se, L0002B, Uppgift 1 Console-variant
+﻿// Author: Gabriel Ellebrink, gabell-2@student.ltu.se, L0002B, Uppgift 2 Console-variant
 
 namespace SellerStatsConsole
 {
